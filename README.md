@@ -1,7 +1,11 @@
 # kopfkino
 nodejs content engine
 
+----
+
 **WORK IN PROGRESS**
+
+----
 
 ## Dependencies
 * [nodeJS](https://nodejs.org/en/download/)
