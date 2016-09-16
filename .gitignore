@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+/node_modules
+/.idea
+
+npm-debug.log
+
+
+# Can ignore specific files
+.DS_Store
