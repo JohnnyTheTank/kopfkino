@@ -47,7 +47,7 @@ internals.manifest = {
             },
             
             {
-                plugin: './lib/routes'
+                plugin: './lib/routing/routes'
             }
         ]
     },
@@ -85,7 +85,7 @@ internals.manifest = {
                 plugin: 'hapi-swagger'
             },
             {
-                plugin: './lib/routes'
+                plugin: './lib/routing/routes'
             }
         ]
     }
